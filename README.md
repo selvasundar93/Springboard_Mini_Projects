@@ -26,8 +26,8 @@
 * Isolation Forest
 * Clustering Based Local Outlier Factor 
 * Autoencoder
-#### Dimensionality Reduction using PCA
 ### Time Series - Forecasting
 * statsmodel - ARIMA
 * Deep Learning - LSTM
+##### Dimensionality Reduction using PCA
 ##### Matplotlib and Seaborn libraries are used for plotting the data
